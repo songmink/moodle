@@ -44,3 +44,7 @@ composer.phar
 /lib/yuilib/*/*/*-coverage.js
 atlassian-ide-plugin.xml
 /node_modules/
+
+# localhost set
+nginx.conf
+*.log
